@@ -1,0 +1,11 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.0"
+manifest_format = "2.0"
+
+[[deps.APSObjects]]
+git-tree-sha1 = "99f24d69152431bb8c20965d7b7f8a8359f68c6b"
+repo-rev = "master"
+repo-url = "https://linxpa-pegit00.garmin.com/selfdevelopment/apsobjects"
+uuid = "a01d0887-f713-4439-a0b4-82eed85f7fc4"
+version = "0.1.0"

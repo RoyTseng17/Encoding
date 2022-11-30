@@ -1,0 +1,7 @@
+name = "EncodingMod"
+uuid = "9c3cc46c-9eb9-4597-a6c3-d9520f3feb04"
+authors = ["Roy Tseng <tseng17@gapp.nthu.edu.tw>"]
+version = "0.1.0"
+
+[deps]
+APSObjects = "a01d0887-f713-4439-a0b4-82eed85f7fc4"
